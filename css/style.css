@@ -1,0 +1,35 @@
+/******************
+******************
+    body > header
+******************
+******************/
+nav img {
+    width: 15px;
+    height: 15px;
+}
+/******************
+******************
+    body > main
+******************
+******************/
+body {
+    font-size: 0.8em;
+}
+main section {
+    height: 450px;
+}
+.fonte-pequena {
+    font-size: 0.7em;
+}
+.fonte-cinza {
+    color: #767484;
+}
+.fundo-cinza {
+    background-color: #F2F2F2;
+}
+.borda-cinza {
+    border: 1px solid #F2F2F2;
+}
+#search-text {
+    height: 35px;
+}
